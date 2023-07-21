@@ -35,16 +35,3 @@
 
 * [Event Monitors](alerts4flow/event-monitors.md)
 * [Webhooks](alerts4flow/webhooks.md)
-
-## Reference
-
-* [SDKs](reference/sdks/README.md)
-  * [Go](reference/sdks/go.md)
-  * [Javascript](reference/sdks/javascript.md)
-  * [Node](reference/sdks/node.md)
-  * [React](reference/sdks/react.md)
-  * [NextJS](reference/sdks/nextjs.md)
-  * [Swift](reference/sdks/swift.md)
-* [API Reference](reference/api-reference/README.md)
-  * [Pets](reference/api-reference/pets.md)
-  * [Users](reference/api-reference/users.md)

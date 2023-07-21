@@ -184,4 +184,4 @@ expiresIn("60s")
 
 ### Creating and Managing Warrants <a href="#creating-and-managing-warrants" id="creating-and-managing-warrants"></a>
 
-Warrants can be created directly in the Forge4Flow dashboard or programmatically via API. Check out the [API Reference](../../reference/api-reference/) for more details.
+Warrants can be created directly in the Forge4Flow dashboard or programmatically via API. Check out the [API Reference](broken-reference) for more details.

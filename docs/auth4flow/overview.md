@@ -20,5 +20,5 @@ Not sure where to start?
 * Getting Started - Sign up for Forge4Flow Cloud or deploy a self-hosted instance, install SDKs, and start making requests!
 * [Overview](overview.md#getting-started) = Deeper system & architecture overview
 * FAQ - Frequently asked questions
-* [API Reference](../reference/api-reference/) - API resource definitions and examples
-* [SDKs](../reference/sdks/) - SDK related documentation
+* [API Reference](broken-reference) - API resource definitions and examples
+* [SDKs](broken-reference) - SDK related documentation
