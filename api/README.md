@@ -1,2 +1,2 @@
-# Object Types
+# Authentication & Sessions
 
