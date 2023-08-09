@@ -26,7 +26,7 @@ Using this object type, we can create warrants for individual users like:
 
 Auth4Flow provides two methods to register users, the first is Auto Registration which will automatically create an account for users on their initial login. The second is Manual Registration which allows you to manually register users using the Forge4Flow dashboard or the Users API regardless if Auto Registration is enabled or not.
 
-See the Forge4Flow [configuration guide](../../../getting-started/configuration.md) to learn how to setup Auto Registration
+See the Forge4Flow [configuration guide](../../../getting-started/configuration/) to learn how to setup Auto Registration
 
 ### Data Integrity
 
