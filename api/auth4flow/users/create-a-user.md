@@ -15,13 +15,15 @@ POST /v1/users
 
 {% tabs %}
 {% tab title="Curl" %}
+
 ```sh
-curl "https://api.warrant.dev/v1/users" \
+curl "https://api.your_domain.com/v1/users" \
   -X POST \
   -H "Authorization: ApiKey YOUR_KEY" \
   --data-raw \
   '{"userId":"d6ed6474-784e-407e-a1ea-42a91d4c52b9"}'Response
 ```
+
 {% endtab %}
 {% endtabs %}
 

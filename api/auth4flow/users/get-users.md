@@ -10,10 +10,12 @@ GET /v1/users
 
 {% tabs %}
 {% tab title="Curl" %}
+
 ```sh
-curl "https://api.warrant.dev/v1/users" \
+curl "https://api.your_domain.com/v1/users" \
     -H "Authorization: ApiKey YOUR_KEY"
 ```
+
 {% endtab %}
 {% endtabs %}
 

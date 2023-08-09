@@ -20,8 +20,9 @@ POST /v1/warrants
 
 {% tabs %}
 {% tab title="Curl" %}
+
 ```sh
-curl "https://api.warrant.dev/v1/warrants" \
+curl "https://api.your_domain.com/v1/warrants" \
     -X POST \
     -H "Authorization: ApiKey YOUR_KEY" \
     --data-raw \
@@ -35,6 +36,7 @@ curl "https://api.warrant.dev/v1/warrants" \
         }
     }'
 ```
+
 {% endtab %}
 {% endtabs %}
 

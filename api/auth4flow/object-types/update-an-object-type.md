@@ -17,8 +17,9 @@ PUT /v1/object-types/:type
 
 {% tabs %}
 {% tab title="Curl" %}
+
 ```sh
-curl "https://api.warrant.dev/v1/object-types/report" \
+curl "https://api.your_domain.com/v1/object-types/report" \
     -X PUT \
     -H "Authorization: ApiKey YOUR_KEY" \
     --data-raw \
@@ -31,6 +32,7 @@ curl "https://api.warrant.dev/v1/object-types/report" \
         }
     }'
 ```
+
 {% endtab %}
 {% endtabs %}
 

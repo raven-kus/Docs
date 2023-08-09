@@ -8,14 +8,14 @@ GET /v1/object-types
 
 ### Request <a href="#request" id="request"></a>
 
-
-
 {% tabs %}
 {% tab title="Curl" %}
+
 ```shell
-curl "https://api.warrant.dev/v1/object-types" \
+curl "https://api.your_domain.com/v1/object-types" \
     -H "Authorization: ApiKey YOUR_KEY"
 ```
+
 {% endtab %}
 {% endtabs %}
 

@@ -16,10 +16,12 @@ GET /v1/tenants/:tenantId/users
 
 {% tabs %}
 {% tab title="Curl" %}
+
 ```sh
-curl "https://api.warrant.dev/v1/tenants/43f86srgs/users" \
+curl "https://api.your_domain.com/v1/tenants/43f86srgs/users" \
     -H "Authorization: ApiKey YOUR_KEY"
 ```
+
 {% endtab %}
 {% endtabs %}
 
