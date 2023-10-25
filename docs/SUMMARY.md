@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Whitepaper (Draft)](whitepaper-draft.md)
 * [Getting Started](getting-started/README.md)
   * [Configuration](getting-started/configuration/README.md)
     * [MySQL](getting-started/configuration/mysql.md)
