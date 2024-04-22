@@ -10,7 +10,7 @@ Forge4Flow provides ecosystem and developer tools for the Flow Blockchain, inclu
 
 #### Auth4Flow
 
-Auth4Flow is an Identity and Access Management platform for the Flock Blockchain. It's designed to abstract away the complexity of implementing and managing authentication, authroization, & access control so teams can focus on building their core products.
+Auth4Flow is an Identity and Access Management platform for the Flow Blockchain. It's designed to abstract away the complexity of implementing and managing authentication, authroization, & access control so teams can focus on building their core products.
 
 You can use Auth4Flow to implement Blockchain Native and Walletles Onboarding authentication flows. From there you can create authorization & access control models like role based access control (RBAC), relationship based access control (ReBAC), attribute based access control (ABAC), and other custom access models.
 
